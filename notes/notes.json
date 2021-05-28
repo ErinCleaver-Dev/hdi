@@ -478,6 +478,29 @@
             "point" : "Understanding that the person individual is frustrated or angry, feeling pressure to compelete tehir task, and may take that frustration out on you.  Therefore, be pleasant and understanding"
           }
         ]
+      },
+      {
+        "id" : "1.4.10",
+        "title" : "identify signs of an emotional hijack",
+        "subsection" : "Signs of an emotional Hijack include: ",
+        "list" : [
+          {
+            "id" : 1, 
+            "point" : "Vocal tones becoming very loud"
+          },
+          {
+            "id" : 2,
+            "point" : "A change in the person's body language"
+          },
+          {
+            "id" : 3,
+            "point" : "The person becoming withdrawn, giving little or no feedback"
+          },
+          {
+            "id" : 4,
+            "point" : "The use of negative words or phrases"
+          }
+        ]
       }
     ]
   }
