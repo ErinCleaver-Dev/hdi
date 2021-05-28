@@ -397,6 +397,23 @@
         ]
       },
       {
+        "id" : "1.4.4",
+        "title" : "Describe Self Awareness",
+        "subsection" : "Self-Awereness helps to provide a framework grow upon.  This involes self-assessment of oneself, having self-regard, and being optimistic.",
+        "list" : []
+      },
+      {
+        "id" : "1.4.5",
+        "title" : "Describe Emotional Management",
+        "subsection" : "Emotional Management involves impulse control of one's emotions and controlling one's reponses.  Emotional management involves being adaptable and flexible, having personal drive, and being authentic",
+        "list" : []
+      },
+      {
+        "id" : "1.4.6",
+        "title" : "Describe Emotional Connection",
+        "subsection" : "Emotional Connection involes relationship building through empathetic listening and communication."
+      },
+      {
         
       }
     ]
