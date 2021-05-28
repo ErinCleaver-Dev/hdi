@@ -7,7 +7,7 @@
         "id" : "1.1.1",
         "title" : "Identify the characteristics of an effective leader.",
         "subsection" : "An effective leader: ",
-        "List" : [
+        "list" : [
           {
             "id" : 1,
             "point" : "Leads by example"
@@ -33,6 +33,11 @@
             "point" : "Display ethical behavior"
           }
         ]
+      },
+      {
+        "id" : "1.1.2",
+        "title" : "Identify ways to exhibit personal accountability",
+        "subsection" : "Ways to exhibit personal accountability include: ",
       }
     ]
   }
