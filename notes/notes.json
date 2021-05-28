@@ -568,6 +568,31 @@
           }
         ]
 
+      },
+      {
+        "id" : "1.4.15",
+        "title" : "define effective time management",
+        "subsection" : "Effective time managemnt is the act of prioritizing the tasks and limiting distractions in order to maximize the return on personal efficiency and productivity",
+        "list" : []
+      },
+      {
+        "id" : "1.4.16",
+        "title" : " Describe the benefits of the effective time management",
+        "subsection" : "Beneifts of effective time management include: ",
+        "list" : [
+          {
+            "id" : 1,
+            "point" : "Improved productivity for all parties involed"
+          },
+          {
+            "id" : 2,
+            "point" : "Improved customer relations"
+          },
+          {
+            "id" : 3,
+            "point" : "Reduced Stress"
+          }
+        ]
       }
     ]
   }
