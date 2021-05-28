@@ -376,6 +376,28 @@
             "point" : "It is important to understand how people work and become skilled in creating relationships"
           }
         ]
+      },
+      {
+        "id" : "1.4.3",
+        "title" : "List the three major components of Emotional Intelligence",
+        "subsection" : "The three major components of Emotional Intelligence are: ",
+        "list" : [
+          {
+            "id" : 1,
+            "point" : "Self-Awareness"
+          },
+          {
+            "id" : 2,
+            "point" : "Emotional Management"
+          },
+          {
+            "id" : 2,
+            "point" : "Emotional Connection"
+          }
+        ]
+      },
+      {
+        
       }
     ]
   }
