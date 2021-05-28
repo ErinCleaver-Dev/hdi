@@ -593,6 +593,37 @@
             "point" : "Reduced Stress"
           }
         ]
+      },
+      {
+        "id" : "1.4.17",
+        "title" : "Explain how to manage the use of your time efficiently",
+        "subsection" : "Techniques to improve and manage the use of your time include: ",
+        "list" : [
+          {
+            "id" : 1, 
+            "point" : "Follow standard operating procedures when performing routine tasks"
+          },
+          {
+            "id" : 2,
+            "point" : "Use a time management tool or daily \"to-do\" list"
+          },
+          {
+            "id" : 3,
+            "point" : "Confirm priorities with your manager, make them aware when competing priorities arise"
+          },
+          {
+            "id" : 4,
+            "point" : "Prioritize incidents based on documented business impact and urgency"
+          },
+          {
+            "id" : 5,
+            "point" : "Plan projects and activities in advance, if possible"
+          },
+          {
+            "id" : 6,
+            "point" : "Prioritize projects and taks in order of importance"
+          }
+        ]
       }
     ]
   }
