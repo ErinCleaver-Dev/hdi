@@ -793,6 +793,29 @@
               "title" : "Define objectives",
               "subsection" : "Objectives are the milestones to measure progress towards achieving goals.",
               "list" : []
+            },
+            {
+              "id" : "2.1.9",
+              "title" : "Explain the role of a service and support center",
+              "subsection" : "The role of a service support center is to provide advice, guidance, information, and when required, the restoration of normal services to its customers enabling them to achieve their business goals. <br><br> A service and support center:",
+              "list" : [
+                {
+                  "id" : 1,
+                  "point" : "Serves as the single-point-of-contact (SPOC) for all stakeholders within the business."
+                },
+                {
+                  "id" : 2,
+                  "point" : "Focuses on getting customers back to work as quickly as possible after they have suffered an interruption (incident) or if they need something (request)"
+                },
+                {
+                  "id" : 3,
+                  "point" : "Executes activies and tasks within the Request Fulfillment, Access Management, Knowledge Management, and Incident Management processes"
+                },
+                {
+                  "id" : 4,
+                  "point" : "Communicate and collaborates with stakeholders to ensure that the service and support provided meets the cusotmer's needs according to the SLA; and improves the customer experience, thus increasing customer satisfaction"
+                }
+              ]
             }
           ]
         }
