@@ -880,6 +880,67 @@
               ]
             }
           ]
+        },
+        {
+          "id" : 2.2,
+          "title" : "Define policy",
+          "section" : [
+            {
+              "id" : "2.2.1",
+              "title" : " Define policy",
+              "subsection" : "Policies define what is or is not permitted within an organization.  A policy establishes expectations and limitations related to behavior.",
+              "list" : []
+            },
+            {
+              "id" : "2.2.2",
+              "title" : "Explain the purpose of organizational policies",
+              "subsection" : "Organizational policies: ",
+              "list" : [
+                {
+                  "id" : 1,
+                  "point" : "Provide clear definitions of boundaries within which to work"
+                },
+                {
+                  "id" : 2,
+                  "point" : "Define what is acceptable and unacceptable employee and cusotmer behavior"
+                },
+                {
+                  "id" : 3,
+                  "point" : "Provide guidelines for dealing with inappropriate behavior"
+                },
+                {
+                  "id" : 4,
+                  "point" : "Set customer expectations with defined polcies"
+                }
+              ]
+            },
+            {
+              "id" : "2.2.3",
+              "title" : "List the importance of adhering to organization policies",
+              "subsection" : "Adhering to organizational policies is important because it: ",
+              "list" : [
+                {
+                  "id" : 1,
+                  "point" : " Encourages consistent behavior throughout the business and support oranization"
+                },
+                {
+                  "id" : 2,
+                  "point" : "Provides a framwork for the delivery of consistent service and support"
+                },
+                {
+                  "id" : 3,
+                  "point" : "Protects the support organization against legal action"
+                },
+                {
+                  "id" : 4,
+                  "point" : "Helps protect the support organization and cusomters' proprietary inofmration and other assets"
+                }
+              ]
+            },
+            {
+
+            }
+          ]
         }
       ]
     }
