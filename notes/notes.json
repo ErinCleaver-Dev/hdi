@@ -540,6 +540,34 @@
         "title" : "Define distraction management",
         "subsection" : "Distraction management is being aware of one's discrations throughout the day that deter a person from accomplishing his/her tasks, plans, goals, or objectives.  Once distractions and its effects have been identified, inteninaol measures need to be put in place to decrease the amount of or impact of the distraction.",
         "list" : []
+      },
+      {
+        "id" : "1.4.14",
+        "title" : "Identify strategies to manage distractions",
+        "subsection" : "Strategies to manage distractions include: ",
+        "list" : [
+          {
+            "id" : 1,
+            "point" : "Paying attention to and making note of the number, frequency, type, and time of day interruptions server as distrations, (i.e., e-mail, instant messages, etc)"
+          },
+          {
+            "id" : 2,
+            "point" : "Identify what needs to be controlled and restrained and devise a plan of action to manage distractions"
+          },
+          {
+            "id" : 3,
+            "point" : "Talking to your manager about what approriate actions to take to limit distractions"
+          },
+          {
+            "id" : 4,
+            "point" : "Focusing clearly on one task at a time for as long as possible while limiting those distractions"
+          },
+          {
+            "id" : 5,
+            "point" : "Putting into practice borders and boundaries that will help you succeed at concentrating on projects and activities"
+          }
+        ]
+
       }
     ]
   }
