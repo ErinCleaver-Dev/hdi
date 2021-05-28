@@ -1,0 +1,44 @@
+{ "UNIT 1" : [
+  {
+    "id" : 1.1,
+    "title" : "Leadership Principles",
+    "section" : [
+      {
+        "id" : "1.1.1",
+        "title" : "Identify the characteristics of an effective leader.",
+        "subsection" : "An effective leader: ",
+        "List" : [
+          {
+            "id" : 1,
+            "point" : "Leads by example"
+          },
+          {
+            "id" : 2,
+            "point" : "Motivates others"
+          },
+          {
+            "id" : 3,
+            "point" : "Encourage participation, creatvie thinking, and initiative"
+          },
+          {
+            "id" : 4,
+            "point" : "Demonstrates a postive attitude"
+          },
+          {
+            "id" : 5,
+            "point" : " Practice active listening skills"
+          },
+          {
+            "id" : 6,
+            "point" : "Display ethical behavior"
+          }
+        ]
+      }
+    ]
+  }
+
+]
+
+
+
+}
