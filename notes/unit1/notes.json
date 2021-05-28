@@ -309,6 +309,29 @@
             "point" : "Promoting the value of the support"
           }
         ]
+      },
+      {
+        "id" : "1.3.5",
+        "title" : "Explain how a support center analyst demonstrates value to the organization",
+        "subsection" : "A support center analyst demonstrates value to the organization by: ",
+        "list" : [
+          {
+            "id" : 1,
+            "point" : "Performing their role in a consistent quality manner, thus helping the business to achieve its vision and mission"
+          },
+          {
+            "id" : 2,
+            "point" : "Keeping their cusotmers informed, thus promoting the service offerings to meet the needs of the customers"
+          },
+          {
+            "id" : 3,
+            "point" : "Promoting and educating customers on teh services that are available, thus increasing the utilization of those services"
+          },
+          {
+            "id" : 4,
+            "point" : "Managing customer expectations and following up, thus increasing visibility to the service and support center which may result in an icrease in customer statification and leads to customer lolalty"
+          }
+        ]
       }
     ]
   }
