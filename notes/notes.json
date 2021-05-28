@@ -735,7 +735,64 @@
               "list" : []
             },
             {
-              
+              "id" : "2.1.4",
+              "title" : "Identify the purpose of a vision statement",
+              "subsection" : "The purpose of a vision statement is to: ",
+              "list" : [
+                {
+                  "id" : 1,
+                  "point"  : "Inspire pride, commitment, and sense of belonging"
+                },
+                {
+                  "id" : 2,
+                  "point" : "Stretch the capabilities and the self image of organization"
+                }
+              ]
+            },
+            {
+              "id" : "2.1.5",
+              "title" : "Define a mission statement",
+              "subsection" : "A mission statement is a formal, short written statement about the stategic purpose of an organization or business unit.  The mission statement should guide the actions of the organization, communicate its overall purpose, provide a sense of direction, and guide decision-making",
+              "list" : []
+            },
+            {
+              "id" : "2.1.6",
+              "title" : "Identify the purpose of a mission statement",
+              "subsection" : "The purpose of a mission statement is to",
+              "list" : [
+                {
+                  "id" : 1,
+                  "point" : "Define the organization's goal and reason for being (i.e., what you are doing and why you are doing it)"
+                },
+                {
+                  "id" : 2,
+                  "point" : "Focus everyone on a common goal"
+                },
+                {
+                  "id" : 3,
+                  "point" : "Inspire commitment"
+                },
+                {
+                  "id" : 4,
+                  "point" : "Provide a sense of direction"
+                },
+                {
+                  "id" : 5,
+                  "point" : "Guide decision-making"
+                }
+              ]
+            },
+            {
+              "id" : "2.1.7",
+              "title" : "Define goals",
+              "subsection" : "Goals are the outcome an organization wants to achieve.  The desired endpoint in the support of your strategy.",
+              "list" : []
+            },
+            {
+              "id" : "2.1.8",
+              "title" : "Define objectives",
+              "subsection" : "Objectives are the milestones to measure progress towards achieving goals.",
+              "list" : []
             }
           ]
         }
