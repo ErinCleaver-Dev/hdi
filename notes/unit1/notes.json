@@ -115,7 +115,200 @@
         "list" : []
       },
       {
-        ""
+        "id" : "1.2.2",
+        "title" : "Describe ethical behavior in a support center.",
+        "subsection" : "An ethical support center environment is characterized by analysts who: ",
+        "list" : [
+          {
+            "id" : 1,
+            "title" : "Provide consistent service to all cusotmers"
+          },
+          {
+            "id" : 2,
+            "title" : "Demonstrate integrity in their actions and daily practices"
+          },
+          {
+            "id" : 3,
+            "title" : "Take ownership and hold themselves personally accountable for their actions"
+          },
+          {
+            "id" : 4,
+            "title" : "Fulfill commitments"
+          },
+          {
+            "id" : 5,
+            "title" : "Protect and enhance the image of the support center"
+          },
+          {
+            "id" : 6,
+            "title" : "Are loyal to the company, support organization, and team"
+          }
+        ]
+      },
+      {
+        "id" : "1.2.3",
+        "title" : "Describe how an analyst should be ethical.",
+        "subsection" : "An analyst should be ethical by: ",
+        "list" : [
+          {
+            "id" : 1,
+            "title" : "Complying with the company code of conduct"
+          },
+          {
+            "id" : 2,
+            "title" : "Reporting unethical and unauthorized use of company equipment as outlined in the standard operating procedures"
+          },
+          {
+            "id" : 3,
+            "title" : "Treating all stakeholders with respect, dignity, and being courtesy"
+          },
+          {
+            "id" : 4,
+            "title" : "Conveying accurate and truthful information"
+          },
+          {
+            "id" : 5,
+            "title" : "Providing the same level of quality and service to all users in order to remain fair and consistent"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id" : 1.3,
+    "title" : " Role of the Support Center Analyst",
+    "section" : [
+      {
+        "id" : "1.3.1",
+        "title" : "Describe the role of support center analyst in the organization",
+        "subsection" : "A frontline support center analyst assumes three main roles",
+        "list" : [
+          {
+            "id" : 1,
+            "title" : "<strong>An Expert</strong>--a person with a high degree of business and/or techinical knowledge, skills, or experience. An expert is able to respond to the business issue with the appropriate sence of urgency."
+          },
+          {
+            "id" : 2,
+            "title" : "<strong>A Customer Champion</strong>--a person who advocates for the customer and their needs.  A cusotmer champion and their needs.  A customer champion represents the cusotmer and focuses on achieving business goals and objectives."
+          },
+          {
+            "id" : 2,
+            "title" : "<strong>An Expeditor</strong>--a person who executes quickly and effectivey. If unable to resolve an issue, an expeditor will escalate the issue to the approprate resource who can resolve the issue, and continue to follow up in a timely manner to ensure the issue has been resolved to the customer's satisfaction."
+          }
+        ]
+      },
+      {
+        "id" : "1.3.2",
+        "title" : "Identify the top skills most commonly required of a support professional",
+        "subsection" : "The top skills nist cinnibkt reqyured if a support professional include: ",
+        "list" : [
+          {
+            "id" : 1, 
+            "point" : "Customer service"
+          },
+          {
+            "id" : 2,
+            "point" : "Communication skills"
+          },
+          {
+            "id" : 3,
+            "point" : "Ability to learn quickly"
+          },
+          {
+            "id" : 4, 
+            "point" : "Troubleshooting/problem-solving skills"
+          },
+          {
+            "id" : 5,
+            "point" : "Ability to work under pressure"
+          }
+          {
+            "id" : 6,
+            "point" : "Adaptablity"
+          },
+          {
+            "id" : 7,
+            "point" : "Interpersonal Skills"
+          },
+          {
+            "id" : 8,
+            "point" : "Teamwork Skills"
+          },
+          {
+            "id" : 9,
+            "point" : "Self-motivated, independent worker"
+          },
+          {
+            "id" : 10,
+            "point" : "Support experience"
+          }
+        ]
+      },
+      {
+        "id" : "1.3.3",
+        "title" : "Describe the primary responsibilities of a support center analyst in the support orgnanization",
+        "subsection" : "The responsibilities of a support center analyst include",
+        "list" : [
+          {
+            "id" : 1,
+            "point" : " Providing high quality customer care on every interaction"
+          },
+          {
+            "id" : 2,
+            "point" : "Receiving and resolving the initial customer request or incident"
+          },
+          {
+            "id" : 3,
+            "point" : "Adhering to policy and standard operating procedures"
+          },
+          {
+            "id" : 4,
+            "point" : "Maintaining product knowledge on a new and existing products and services"
+          },
+          {
+            "id" : 5,
+            "point" : "Educating the customer and enhancing the customer experience"
+          },
+          {
+            "id" : 6,
+            "point" : "Providing accurate information and solutions to customers"
+          },
+          {
+            "id" : 7,
+            "point" : "Staying informed about the changing needs of the business"
+          }
+        ]
+      },
+      {
+        "id" : "1.3.4",
+        "title" : "Identify how a support center analyst can deliver consistent quaility customer service.",
+        "subsection" : "A support center analyst delivers consistent, quality customer service by: ",
+        "list" : [
+          {
+            "id" : 1,
+            "point" : " Responding to customer issues in a timley manner"
+          }, 
+          {
+            "id" : 2,
+            "point" : "Understanding and documenting customer needs"
+          },
+          {
+            "id" : 3,
+            "point" : "Taking ownership of customer inidents."
+          },
+          {
+            "id" : 4,
+            "point" : "Making specific commitments, then consistently meeting or exceeding those commitments, while remaining faithful to organizational policies"
+          },
+          {
+            "id" : 5,
+            "point" :  "Resolving or assisting in the resolution of incidents within estblished service levels."
+          },
+          {
+            "id" : 6,
+            "point" : "Promoting the value of the support"
+          }
+        ]
       }
     ]
   }
