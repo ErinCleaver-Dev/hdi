@@ -672,6 +672,37 @@
               "title" : "Be open-minded"
             }
           ]
+        },
+        {
+          "id" : "1.4.20",
+          "title" : "Identify ways in which a support customer analyst can initiate personal growth and development",
+          "subsection" : "A support center analyst can initiate personal growth and delveopment by: ",
+          "list" : [
+            {
+              "id" : 1,
+              "point" : "Participating in professional development certification course and training"
+            },
+            {
+              "id" : 2,
+              "point" : "Networking and collaborating with other support professionals via webinars, events, and conferences"
+            },
+            {
+              "id" : 3,
+              "point" : "Joining and participating in industry groups and online support communities"
+            },
+            {
+              "id" : 4,
+              "point" : "Sharing knowledge via white papers, articles, blogs, knowledge sharing sessions"
+            },
+            {
+              "id" : 5,
+              "point" : "Advocate for your personal goals and objectives, make management aware of career goals, aspirations, and development needs"
+            },
+            {
+              "id" : 6,
+              "point" : "Take initiative to volunteer and work on projects"
+            }
+          ]
         }
       ]
     }
