@@ -447,6 +447,37 @@
             "point" : "full of natural chemicals that are harmful for the health of the body and brain"
           }
         ]
+      },
+      {
+        "id" : "1.4.9",
+        "title" : "Describe how to manage another's emotional hijack",
+        "subsection" : "To manage another's emotioanl hijack: ",
+        "list" : [
+          {
+            "id" : 1,
+            "point" : "Make sure the person individual knows you are on their side to help and/or resolve the issue"
+          },
+          {
+            "id" : 2,
+            "point" : "Be attentive to the underlying emotion in the conversation through either the vocal elements used or the tone of the written word choice"
+          },
+          {
+            "id" : 3,
+            "point" : "When faces to face, be aware of the person's body language; keep the door open; and, if appropriate, come back later"
+          },
+          {
+            "id" : 4,
+            "point" : "Align yourself with the person/individual by identifying and stating their felt emotion with sincerity"
+          },
+          {
+            "id" : 5,
+            "point" : "Create an enviorment of help by using words like \"we\" and \"us\""
+          },
+          {
+            "id" : 6,
+            "point" : "Understanding that the person individual is frustrated or angry, feeling pressure to compelete tehir task, and may take that frustration out on you.  Therefore, be pleasant and understanding"
+          }
+        ]
       }
     ]
   }
