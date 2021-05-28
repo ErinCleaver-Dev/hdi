@@ -653,6 +653,25 @@
               "point" : "From your career path for the future"
             }
           ]
+        },
+        {
+          "id" : "1.4.19",
+          "title" : "Identify success factors to best manage your worklife",
+          "subsection" : "Success factors to best manage your work life include: ",
+          "list" : [
+            {
+              "id" : 1, 
+              "title" : "Meet commitments with every assignment or meeting"
+            },
+            {
+              "id" : 2,
+              "title" : "Approach your manager with solutions, not problems"
+            },
+            {
+              "id" : 3,
+              "title" : "Be open-minded"
+            }
+          ]
         }
       ]
     }
