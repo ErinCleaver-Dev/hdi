@@ -528,6 +528,18 @@
             "point" : "Count to ten"
           }
         ]
+      },
+      {
+        "id" : "1.4.12",
+        "title" : "Define switch-tasking",
+        "subsection" : "Switch-tasking is the tendency to switch between tasks before one is completed.",
+        "list" : []
+      },
+      {
+        "id" : "1.4.13",
+        "title" : "Define distraction management",
+        "subsection" : "Distraction management is being aware of one's discrations throughout the day that deter a person from accomplishing his/her tasks, plans, goals, or objectives.  Once distractions and its effects have been identified, inteninaol measures need to be put in place to decrease the amount of or impact of the distraction.",
+        "list" : []
       }
     ]
   }
