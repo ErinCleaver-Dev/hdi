@@ -501,6 +501,33 @@
             "point" : "The use of negative words or phrases"
           }
         ]
+      },
+      {
+        "id" : "1.4.11",
+        "title" : "Describe how to personally recover after emotional hijack",
+        "subsection" : "Strategies to personally recover after an emotional hijack include: ",
+        "list" : [
+          {
+            "id" : 1,
+            "point" : "Remove yourself immediatley from the situation"
+          }, 
+          {
+            "id" : 2,
+            "point" : "Take a walk and breathe deeply"
+          },
+          {
+            "id" : 3,
+            "point" : "Find a mentor or friend away from the situation to talk to"
+          },
+          {
+            "id" : 4,
+            "point" : "Get something to drink or eat"
+          },
+          {
+            "id" : 5,
+            "point" : "Count to ten"
+          }
+        ]
       }
     ]
   }
