@@ -176,7 +176,7 @@
   },
   {
     "id" : 1.3,
-    "title" : " Role of the Support Center Analyst",
+    "title" : "Role of the Support Center Analyst",
     "section" : [
       {
         "id" : "1.3.1",
@@ -330,6 +330,50 @@
           {
             "id" : 4,
             "point" : "Managing customer expectations and following up, thus increasing visibility to the service and support center which may result in an icrease in customer statification and leads to customer lolalty"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id" : 1.4,
+    "title" : "Personal Success Factors -- Emotional Intelligence ",
+    "section" : [
+      {
+        "id" : "1.4.1",
+        "title" : "Define Emotional Intelligence (EI)",
+        "subsection" : "Emotional Intelligence (EI) is",
+        "list" : [
+          {
+            "id" : 1,
+            "point" : "It is important to understand a customer's emotional need as well as their business need"
+          },
+          {
+            "id" : 2,
+            "point" : "It makes one more aware their own reactions and how it impacts the quality of the relationship between them and customers, peers, and management"
+          },
+          {
+            "id" : 3,
+            "point" : "It is important to understand how people work and become skilled in creating relationships"
+          }
+        ]
+      },
+      {
+        "id" : "1.4.2",
+        "title" : "Explain why Emotional Intelligence is important to the role of a support center analyst",
+        "subsection" : "Emotional is important to the role of a support center analyst because :",
+        "list" : [
+          {
+            "id" : 1,
+            "point" : "It is important to understand a customer's emotional need as weell as their business need"
+          },
+          {
+            "id" : 2,
+            "point" : "It makes one more aware of their own reactions and how it impacts the quality of the relationship between them and customers, peers, and management"
+          },
+          {
+            "id" : 3,
+            "point" : "It is important to understand how people work and become skilled in creating relationships"
           }
         ]
       }
