@@ -847,6 +847,37 @@
                   "point" : "Improving teamwork communication to better serve the needs of the business"
                 }
               ]
+            },
+            {
+              "id" : "2.1.11",
+              "title" : "identify metrics that may demonstrate how the service and support center contributes to achieving business goals and objectives",
+              "subsection" : "Metrics that may demonstrate how desktop support services contribute to achieving buiness and support goals and objectives include: ",
+              "list" : [
+                {
+                  "id" : 1,
+                  "point" : "Customer Satisfaction"
+                },
+                {
+                  "id" : 2,
+                  "point" : "Quality Service Level Achievements"
+                },
+                {
+                  "id" : 3,
+                  "point" : "First Contact Resoultion (FCR)"
+                },
+                {
+                  "id" : 4,
+                  "point" : "First Level Resolution (FLR)"
+                },
+                {
+                  "id" : 5,
+                  "point" : "Business impact"
+                },
+                {
+                  "id" : 6,
+                  "point" : "Analyst Utliziation"
+                }
+              ]
             }
           ]
         }
