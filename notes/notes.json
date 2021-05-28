@@ -428,6 +428,25 @@
             "point" : "The body and brain are flooded with arenaline and cortisol (known as the allostatic load) which can cause one to be over sensitive and/or tired very quickly."
           }
         ]
+      },
+      {
+        "id" : "1.4.8",
+        "title" : "Explain the impact of an emotional hijack on self and others",
+        "subsection" : "The impact of an emotional hijack can leave a person: ",
+        "list" : [
+          {
+            "id" : 1,
+            "point" : "Saying things that may be hurtful without thinking about the consequences"
+          },
+          {
+            "id" : 2,
+            "point" : "Not able to respond to a situation verbally or physicall"
+          },
+          {
+            "id" : 4,
+            "point" : "full of natural chemicals that are harmful for the health of the body and brain"
+          }
+        ]
       }
     ]
   }
