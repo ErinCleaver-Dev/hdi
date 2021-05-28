@@ -631,7 +631,29 @@
       "id" : "1.4.B",
       "title" : "Personal Success Factors -- Personal Account-ability",
       "section" : [
-        {}
+        {
+          "id" : "1.4.18",
+          "title" : "Identifiy ways to be accountable for your own development",
+          "subsection" : "To take accountability for your own development",
+          "list" : [
+            {
+              "id" : 1,
+              "point" : " Understand your strengths, weaknesses, opportunities, threats, and core values."
+            },
+            {
+              "id" : 2,
+              "point" : "Get feedback from leadership on your performance"
+            }, 
+            {
+              "id" : 3,
+              "point" : "Create an action plan with the feedback"
+            },
+            {
+              "id" : 4,
+              "point" : "From your career path for the future"
+            }
+          ]
+        }
       ]
     }
   ]
