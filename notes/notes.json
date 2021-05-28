@@ -938,7 +938,35 @@
               ]
             },
             {
-
+              "id" : "2.2.4",
+              "title" : "Identify examples or oganizational policies",
+              "subsection" : "Policies define an organizations may include: ",
+              "list" : [
+                {
+                  "id" : 1,
+                  "point" : "It security policies"
+                },
+                {
+                  "id" : 2,
+                  "point": "Dress Code policies"
+                },
+                {
+                  "id" : 3,
+                  "point" : "Personal Equipment Policies"
+                },
+                {
+                  "id" : 4,
+                  "point" : "Work Behvior policies"
+                },
+                {
+                  "id" : 5,
+                  "point" : "Social Media policies"
+                },
+                {
+                  "id" : 4, 
+                  "point" : "Mobile Device Management policies"
+                }
+              ]
             }
           ]
         }
