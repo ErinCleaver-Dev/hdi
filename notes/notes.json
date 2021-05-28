@@ -816,6 +816,37 @@
                   "point" : "Communicate and collaborates with stakeholders to ensure that the service and support provided meets the cusotmer's needs according to the SLA; and improves the customer experience, thus increasing customer satisfaction"
                 }
               ]
+            },
+            {
+              "id" : "2.1.10",
+              "title" : "Describe how the service and support center provides value to the organization",
+              "subsection" : "The service and support center provides value to the organization by: ",
+              "list" : [
+                {
+                  "id" : 1,
+                  "point" : "Improving customer service satisfaction"
+                },
+                {
+                  "id" : 2,
+                  "point" : "Increasing accessibility using single operational point of contact (SPOC)"
+                },
+                {
+                  "id" : 3,
+                  "point" : "Providing a proactive approach to service and support"
+                },
+                {
+                  "id" : 4,
+                  "point" : "Reducing proactive approach to service and support"
+                },
+                {
+                  "id" : 5,
+                  "point" : "Leveraging service and support resources and expertise to increase the productivity of all professionals across the business"
+                },
+                {
+                  "id" : 6,
+                  "point" : "Improving teamwork communication to better serve the needs of the business"
+                }
+              ]
             }
           ]
         }
