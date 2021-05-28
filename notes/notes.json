@@ -411,10 +411,23 @@
       {
         "id" : "1.4.6",
         "title" : "Describe Emotional Connection",
-        "subsection" : "Emotional Connection involes relationship building through empathetic listening and communication."
+        "subsection" : "Emotional Connection involes relationship building through empathetic listening and communication.",
+        "list" : []
       },
       {
-        
+        "id" : "1.4.7",
+        "title" : "Describe an emotional hijack",
+        "subsection" : "An emotional hijack is a perceived threat, whether it is real or not, from a situation or person.  The limbic brain \"hijacks\" the executive function and thinking brain.  It is sudden, can be ferocious and takes you where you were not planning to go.  An emotional hijack happens: ",
+        "list" : [
+          {
+            "id" : 1,
+            "point" : "Their is a change in the chemistry of the brain that dose not allow one to think rationally and clearly, which can last for up to 18 mintues.  Tehir are different stages that can cause the brain to go completely blank and revert to fight, flight, or freeze."
+          },
+          {
+            "id" : 2,
+            "point" : "The body and brain are flooded with arenaline and cortisol (known as the allostatic load) which can cause one to be over sensitive and/or tired very quickly."
+          }
+        ]
       }
     ]
   }
